@@ -1,0 +1,52 @@
+body {
+background-color: antiquewhite;
+}
+    main {
+    width: 800px;
+    background-color: aqua;
+    display: inline-block;
+    margin-left: 400px;
+      
+    }
+        .tekstas {
+            background-color: palevioletred;
+            display: inline-block;
+            text-align: center ;
+            float: left;
+            width: 40%;
+        }
+            h1 {
+                color: white;
+                display: inline-block;
+                font-size: 52px;
+                width: 100%;
+            }
+            .oh {
+                color: yellow;
+                display: inline-block;
+                font-size: 20px;
+                width: 100%;
+            }
+            .antras {
+                color: white;
+                display: inline-block;
+            }
+            .trecias {
+                color: white;
+                display: inline-block;
+            }
+            a {
+                text-decoration: none;
+                display: inline-block;
+                color: black;
+                background-color: yellow;
+                padding: 10px;
+                padding-left: 20px;
+                padding-right: 20px;
+            }
+        .ernis {
+            float: right;
+            background-color: red;
+            display: inline-block;
+            width: 60%;
+        }
